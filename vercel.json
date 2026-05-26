@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/wechat.js": {
+      "maxDuration": 10
+    }
+  }
+}
